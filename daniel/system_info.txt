@@ -1,0 +1,2 @@
+Darwin MacBookAir.localdomain 25.3.0 Darwin Kernel Version 25.3.0: Wed Jan 28 20:53:31 PST 2026; root:xnu-12377.91.3~2/RELEASE_ARM64_T8103 arm64
+Tue May 26 12:56:36 +06 2026
